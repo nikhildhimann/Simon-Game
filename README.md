@@ -26,3 +26,8 @@ Challenge your memory skills by repeating the color sequences as they grow longe
 ```bash
 git clone https://github.com/nikhildhimann/Simon-Game.git
 cd Simon-Game
+```
+
+📫 Connect With Me
+Twitter (X): @nikhildhiman_0
+
