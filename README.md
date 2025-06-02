@@ -18,6 +18,13 @@ Challenge your memory skills by repeating the color sequences as they grow longe
 - HTML5
 - CSS3
 - JavaScript (Vanilla)
+- 
+## 🚀 How to Use
+
+- Open the 🔗live demo --   https://nikhildhimann.github.io/Simon-Game/
+- Press any key to start the game.
+- Repeat the sequence of colors shown.
+- See how long you can last!
 
 ## 🚀 Getting Started
 
